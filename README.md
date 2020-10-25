@@ -15,4 +15,6 @@
 1)Code minimum an hour every day for the next 100 days.  
 2)Share your progress every day with the #100DaysOfCode hashtag.
 
+-> Log - click here to see my progress  
+
 

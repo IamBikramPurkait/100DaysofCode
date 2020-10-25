@@ -1,12 +1,13 @@
 # ** ***I've joined the #100DaysOfCode Challenge*** **
-> This repo will contain the problem solved by me as part of my #100DaysofCode challenge taken up by me on LinkedIn and Twitter.
+> This repo will contain the problem solved by me as part of my #100DaysofCode challenge taken up by me on LinkedIn and Twitter.  
 > **[Log - click here to see my progres](https://github.com/IamBikramPurkait/100DaysofCode/blob/main/log.md)**
 
 * I have taken this challenge from 26th October 2020 that i will daily solve Data Structures and Algorithm Problems, Learn Python and C++ and made some project for constantly 100 days.I will update my daily learning progress on Linkedin too in form of daily posts with attached screenshots of code for the problems being solved or or which i am doing on the challenged day.
 
 * Problem Statement are taken from many sources like Geeks for Geeks, HackerEarth, hackerRank, Codechef, Codeforces, Stack Overflow, Leetcode etc.
 
-* Also I will update my daily basis progress on my personal blogspot website, link - https://codewithbikram.blogspot.com 
+* Also I will update my daily basis progress on my personal blogspot website,  
+> [Code Help](https://codewithbikram.blogspot.com) 
 
 * All codes/program files will have full problem statement, time and space complexity, Appoach to solve the problem, necessary comments for better understanding of code and steps.
 

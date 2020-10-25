@@ -11,10 +11,8 @@
 
 -> I am took this challenge #100daysofCode inspired by @Alex Kallaway @Manvi Chaddha @Lakshay saini @Kiran Kumar Rayadurgam and many more...If you want to know how this challenge will help you then refer to this link- https://github.com/Kallaway/100-days-of-code and official #100daysofCode website -https://www.100daysofcode.com
 
--> Two Main Rules-
-
-1)Code minimum an hour every day for the next 100 days.
-
+-> Two Main Rules-  
+1)Code minimum an hour every day for the next 100 days.  
 2)Share your progress every day with the #100DaysOfCode hashtag.
 
 

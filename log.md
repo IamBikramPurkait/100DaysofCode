@@ -1,4 +1,4 @@
-=> #100 Days Of Code - Log  
+# ** *100 Days Of Code - Log* **  
 -> ##Day 0: October 25, 2020        
 Today's Progress: Fixed CSS, worked on canvas functionality for the app.
 

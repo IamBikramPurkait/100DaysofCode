@@ -9,4 +9,4 @@
 1. Reverse of an array by iterative method in cpp.
 2. Some pattern problems solved using python.
 * **Thoughts:** I really struggled on my first day of challenge for solving the array problem.When i solve pattern probleem in python, i learn a lot about forloop and clear some basic concept of forloop in python.  
-* **Link to work:** [Day 1: October 26, 2020 Blog](https://www.blogger.com/blog/post/edit/4052512141943657761/3943708824071781154)
+* **Link to work:** [Day 1: October 26, 2020 Blog](https://codewithbikram.blogspot.com/2020/10/day-1-26-october-2020.html)

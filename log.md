@@ -6,7 +6,10 @@
 
 > ## **Day 1: October 26, 2020**        
 * **Today's Progress:** 
-1. Reverse of an array by iterative method in cpp.
-2. Some pattern problems solved using python.
-* **Thoughts:** I really struggled on my first day of challenge for solving the array problem.When i solve pattern probleem in python, i learn a lot about forloop and clear some basic concept of forloop in python.  
-* **Link to work:** [Day 1: October 26, 2020 Blog](https://codewithbikram.blogspot.com/2020/10/day-1-26-october-2020.html)
+1. [The bitwise operator in python.](https://practice.geeksforgeeks.org/problems/bitwise-operators-python/0/?track=fork-python&batchId=119)  
+2. [The reverse of a number using C++  and python.](https://www.codechef.com/problems/FLOW007)  
+3. [sep() and end() method in python.](https://practice.geeksforgeeks.org/problems/sep-and-end-in-print/0/?track=fork-python&batchId=119)  
+4. [Find Term of a G.P series using C++.](https://practice.geeksforgeeks.org/problems/series-gp4646/1)  
+5. [Problem name  Zero Converter using python.](https://practice.geeksforgeeks.org/problems/zero-converter-python/1)  
+* **Thoughts:** It's the second day of the challenge taken by me on LinkedIn. Today i am doing some some basic python problem and start learning python tkinter module and linked list in dsa. I think tommorow i can made some simple project using python tkinter module and pygame module and also solved some linkled list problems.   
+* **Link to work:** [Day 2: October 27, 2020 Blog](https://codewithbikram.blogspot.com/2020/10/day-2-27-october-2020.html)

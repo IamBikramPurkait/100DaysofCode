@@ -31,3 +31,12 @@
 
 * **Thoughts:** It's the third day of the challenge taken by me on LinkedIn. Today I have solved some problems with the array rotation method on HackerRank and also learn the python Tkinter module. Today I have solved array rotation by using 2 methods, first is rotate one by one, and the second is the Juggling method.   
 * **Link to work:** [Day 3: October 28, 2020 Blog](https://codewithbikram.blogspot.com/2020/10/day-3-28-october-2020-100daysofcode-its.html)
+
+> ## **Day 4: October 29, 2020**          
+* **Today's Progress:**      
+1. [I make a simple Digital Clock using the python Tkinter module.](https://www.hackerrank.com/challenges/array-left-rotation/problem)      
+    
+
+* **Thoughts:** It's the fourth day of the challenge taken by me on LinkedIn. Today I have learn tkinter module of python and make my first application based on tkinter module which is a Simple Digital Clock.     
+   
+* **Link to work:** [Day 4: October 29, 2020 Blog](https://codewithbikram.blogspot.com/2020/10/day-3-28-october-2020-100daysofcode-its.html)

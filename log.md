@@ -25,7 +25,7 @@
 * **Link to work:** [Day 2: October 27, 2020 Blog](https://codewithbikram.blogspot.com/2020/10/day-2-27-october-2020.html)
 
 > ## **Day 3: October 28, 2020**         
-* **Today's Progress:**  
+* **Today's Progress:**    
 1. [C++ program to rotate an array by one by one rotate.](https://www.hackerrank.com/challenges/array-left-rotation/problem)    
 2. [Juggling algorithm for array rotation.](https://www.hackerrank.com/challenges/array-left-rotation/problem)     
 
@@ -34,9 +34,9 @@
 
 > ## **Day 4: October 29, 2020**          
 * **Today's Progress:**      
-1. [I make a simple Digital Clock using the python Tkinter module.](https://www.hackerrank.com/challenges/array-left-rotation/problem)      
+1. [I make a simple Digital Clock using the python Tkinter module.](https://github.com/IamBikramPurkait/100DaysofCode/tree/main/Day%204)      
     
 
 * **Thoughts:** It's the fourth day of the challenge taken by me on LinkedIn. Today I have learn tkinter module of python and make my first application based on tkinter module which is a Simple Digital Clock.     
    
-* **Link to work:** [Day 4: October 29, 2020 Blog](https://codewithbikram.blogspot.com/2020/10/day-3-28-october-2020-100daysofcode-its.html)
+* **Link to work:** [Day 4: October 29, 2020 Blog](https://codewithbikram.blogspot.com/2020/10/day-4-29-october-2020.html)

@@ -40,3 +40,12 @@
 * **Thoughts:** It's the fourth day of the challenge taken by me on LinkedIn. Today I have learn tkinter module of python and make my first application based on tkinter module which is a Simple Digital Clock.     
    
 * **Link to work:** [Day 4: October 29, 2020 Blog](https://codewithbikram.blogspot.com/2020/10/day-4-29-october-2020.html)
+
+> ## **Day 5: October 30, 2020**          
+* **Today's Progress:**      
+1. [I make a simple Calculator using the python Tkinter module.](https://github.com/IamBikramPurkait/100DaysofCode/tree/main/Day%205)      
+    
+
+* **Thoughts:** It's the fifth day of the challenge taken by me on LinkedIn. Today I have learn tkinter module of python and make my second application based on tkinter module which is a Simple Calculator.    
+   
+* **Link to work:** [Day 5: October 30, 2020 Blog](https://codewithbikram.blogspot.com/2020/10/day-5-30-october-2020.html)

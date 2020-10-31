@@ -49,3 +49,13 @@
 * **Thoughts:** It's the fifth day of the challenge taken by me on LinkedIn. Today I have learn tkinter module of python and make my second application based on tkinter module which is a Simple Calculator.    
    
 * **Link to work:** [Day 5: October 30, 2020 Blog](https://codewithbikram.blogspot.com/2020/10/day-5-30-october-2020.html)
+
+> ## **Day 6: October 31, 2020**          
+* **Today's Progress:**      
+1. [I make a simple Temperature converter using the python Tkinter module.](https://github.com/IamBikramPurkait/100DaysofCode/tree/main/Day%206/Temparature%20Converter)
+2. [I make a simple Rolling Dice game using the python Tkinter module.](https://github.com/IamBikramPurkait/100DaysofCode/tree/main/Day%206/Rolling%20Dice)
+    
+
+* **Thoughts:** It's the sixth day of the challenge taken by me on LinkedIn. Today I have learn the last part of tkinter module of python and make my third and fourth application based on tkinter module which is a Simple temp converter and rolling dice game.   
+   
+* **Link to work:** [Day 6: October 31, 2020 Blog](https://codewithbikram.blogspot.com/2020/10/day-6-31-october-2020.html)

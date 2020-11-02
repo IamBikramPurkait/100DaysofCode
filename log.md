@@ -64,7 +64,8 @@
 > ## **Day 7 and Day 8: 1st and 2nd November, 2020**            
 * **Today's Progress:**        
 1. [Two vs Ten](https://www.codechef.com/problems/TWOVSTEN)         
-2. [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer)       
+2. [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer)      
+3. Many more....       
     
 
 * **Thoughts:** Today I am revised the topic of array and solved problems in array on leetcode and codechef.and also today I am joining the leetcode Novembmer Challenge and solved today's challenge.          

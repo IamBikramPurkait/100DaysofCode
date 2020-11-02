@@ -50,12 +50,23 @@
    
 * **Link to work:** [Day 5: October 30, 2020 Blog](https://codewithbikram.blogspot.com/2020/10/day-5-30-october-2020.html)
 
-> ## **Day 6: October 31, 2020**          
-* **Today's Progress:**      
-1. [I make a simple Temperature converter using the python Tkinter module.](https://github.com/IamBikramPurkait/100DaysofCode/tree/main/Day%206/Temparature%20Converter)
-2. [I make a simple Rolling Dice game using the python Tkinter module.](https://github.com/IamBikramPurkait/100DaysofCode/tree/main/Day%206/Rolling%20Dice)
+> ## **Day 6: October 31, 2020**             
+* **Today's Progress:**         
+1. [I make a simple Temperature converter using the python Tkinter module.](https://github.com/IamBikramPurkait/100DaysofCode/tree/main/Day%206/Temparature%20Converter)     
+2. [I make a simple Rolling Dice game using the python Tkinter module.](https://github.com/IamBikramPurkait/100DaysofCode/tree/main/Day%206/Rolling%20Dice)    
     
 
-* **Thoughts:** It's the sixth day of the challenge taken by me on LinkedIn. Today I have learn the last part of tkinter module of python and make my third and fourth application based on tkinter module which is a Simple temp converter and rolling dice game.   
+* **Thoughts:** It's the sixth day of the challenge taken by me on LinkedIn. Today I have learn the last part of tkinter module of python and make my third and fourth application based on tkinter module which is a Simple temp converter and rolling dice game.     
    
-* **Link to work:** [Day 6: October 31, 2020 Blog](https://codewithbikram.blogspot.com/2020/10/day-6-31-october-2020.html)
+* **Link to work:** [Day 6: October 31, 2020 Blog](https://codewithbikram.blogspot.com/2020/10/day-6-31-october-2020.html)    
+
+ 
+> ## **Day 7 and Day 8: 1st and 2nd November, 2020**            
+* **Today's Progress:**        
+1. [Two vs Ten](https://www.codechef.com/problems/TWOVSTEN)         
+2. [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer)       
+    
+
+* **Thoughts:** Today I am revised the topic of array and solved problems in array on leetcode and codechef.and also today I am joining the leetcode Novembmer Challenge and solved today's challenge.          
+   
+* **Link to work:** [Day 7 and Day 8: 1st and 2nd November 2020 Blog](https://codewithbikram.blogspot.com/2020/11/day-7-and-day-8-31-october-and-1st.html)

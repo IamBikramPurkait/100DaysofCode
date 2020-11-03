@@ -72,7 +72,7 @@
    
 * **Link to work:** [Day 7 and Day 8: 1st and 2nd November 2020 Blog](https://codewithbikram.blogspot.com/2020/11/day-7-and-day-8-31-october-and-1st.html)
   
-> ## Day 9: 3rd November, 2020**             
+> ## **Day 9: 3rd November, 2020**             
 * **Today's Progress:**          
 1. [Make Rock Paper Scissor game using Tkinter python module.](https://github.com/IamBikramPurkait/100DaysofCode/blob/main/Day%209/Rock-Paper-Scissor%20Game/main.py)         
 2. Solve some problems on the topic of linkedlist.        

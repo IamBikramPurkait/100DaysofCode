@@ -82,3 +82,13 @@
 * **Thoughts:** Today I am revised the topic of linked list and solved problems of linked list on leetcode and codechef.and also today I make a Rock Paper Scissor game using tkinter python module.                
    
 * **Link to work:** [Day 9: 3rd November, 2020 Blog](https://codewithbikram.blogspot.com/2020/11/day-9-3rd-november-2020.html)      
+
+> ## **Day 10: 4th November, 2020**             
+* **Today's Progress:**                
+1. Solve some problems on the topic of LinkedList.         
+2. Many more....          
+    
+
+* **Thoughts:** Today I have revised the topic of the linked list and first time start learning the basics of java.                      
+   
+* **Link to work:** [Day 10: 4th November, 2020 Blog](https://codewithbikram.blogspot.com/2020/11/day-10-4th-november-2020.html)   

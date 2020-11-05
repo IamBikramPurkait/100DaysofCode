@@ -85,8 +85,9 @@
 
 > ## **Day 10: 4th November, 2020**             
 * **Today's Progress:**                
-1. Solve some problems on the topic of LinkedList.         
-2. Many more....          
+1. Solve some problems on the topic of LinkedList.   
+2. Print Fibonacci series.   
+3. Many more....          
     
 
 * **Thoughts:** Today I have revised the topic of the linked list and first time start learning the basics of java.                      

@@ -92,3 +92,15 @@
 * **Thoughts:** Today I have revised the topic of the linked list and first time start learning the basics of java.                      
    
 * **Link to work:** [Day 10: 4th November, 2020 Blog](https://codewithbikram.blogspot.com/2020/11/day-10-4th-november-2020.html)   
+
+
+> ## **Day 11: 5th November, 2020**             
+* **Today's Progress:**                
+1. [Solve some problems on the topic of LinkedList.](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem?h_r=profile)          
+2. [Minimum Cost to Move Chips to The Same Position.](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3520/)   
+3. [Consecutive Characters.](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3518/)    
+    
+
+* **Thoughts:** Today I have revised the topic of the linked list and practice some problem on insertion of linked list.and also solve linkedlist problem on HackerRank.Solve November month leetcode challenge problem.                     
+   
+* **Link to work:** [Day 11: 5th November, 2020 Blog](https://codewithbikram.blogspot.com/2020/11/day-11-5th-november-2020.html)      

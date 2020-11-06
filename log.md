@@ -104,4 +104,16 @@
 
 * **Thoughts:** Today I have revised the topic of the linked list and practice some problem on insertion of linked list.and also solve linkedlist problem on HackerRank.Solve November month leetcode challenge problem.                     
    
-* **Link to work:** [Day 11: 5th November, 2020 Blog](https://codewithbikram.blogspot.com/2020/11/day-11-5th-november-2020.html)      
+* **Link to work:** [Day 11: 5th November, 2020 Blog](https://codewithbikram.blogspot.com/2020/11/day-11-5th-november-2020.html)     
+
+
+> ## **Day 12: 6th November, 2020**             
+* **Today's Progress:**                
+1. [Find the Smallest Divisor Given a Threshold.](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3521/)       
+2. [Insert a Node at the Tail of a Linked List.](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem?h_r=profile)   
+      
+
+* **Thoughts:** Today I have revised the topic of the Stack and practice some problems on the deletion of the linked list.and solved the November month challenge problem on Leetcode and also try to solve the Codechef November long Challenge problem.                    
+   
+* **Link to work:** [Day 12: 6th November, 2020 Blog](https://codewithbikram.blogspot.com/2020/11/day-12-6th-november-2020.html)      
+

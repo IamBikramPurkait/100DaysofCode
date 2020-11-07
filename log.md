@@ -111,6 +111,7 @@
 * **Today's Progress:**                
 1. [Find the Smallest Divisor Given a Threshold.](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3521/)       
 2. [Insert a Node at the Tail of a Linked List.](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem?h_r=profile)   
+3.[Deletion of a linked list.](https://github.com/IamBikramPurkait/100DaysofCode/tree/main/Day%2012)
       
 
 * **Thoughts:** Today I have revised the topic of the Stack and practice some problems on the deletion of the linked list.and solved the November month challenge problem on Leetcode and also try to solve the Codechef November long Challenge problem.                    

@@ -118,3 +118,18 @@
    
 * **Link to work:** [Day 12: 6th November, 2020 Blog](https://codewithbikram.blogspot.com/2020/11/day-12-6th-november-2020.html)      
 
+
+
+> ## **Day 13: 7th November, 2020**              
+* **Today's Progress:**                 
+1. [Tower Of Hanoi.](https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/0/?track=dsa-self-paced-preview-recursion&batchId=174)        
+2. [Fibonacci Using Recursion.](https://practice.geeksforgeeks.org/problems/fibonacci-using-recursion/0/?track=dsa-self-paced-preview-recursion&batchId=174)    
+3. [Digital Root.](https://practice.geeksforgeeks.org/problems/digital-root/0/?track=dsa-self-paced-preview-recursion&batchId=174)      
+4. [Sum of Digits of a Number.](https://practice.geeksforgeeks.org/problems/sum-of-digits-of-a-number/0/?track=dsa-self-paced-preview-recursion&batchId=174)     
+5. [Count Total Digits in a Number.](https://practice.geeksforgeeks.org/problems/count-total-digits-in-a-number/0/?track=dsa-self-paced-preview-recursion&batchId=174)   
+      
+
+* **Thoughts:** Today I am learned the topic of Recursion and Solving some problems on Recursion, and solve day 7 problems of leetcode monthly challenge and learn the conditional statement of java and try to solve Codechef long challenge problems.                   
+   
+* **Link to work:** [Day 13: 7th November, 2020 Blog](https://codewithbikram.blogspot.com/2020/11/day-13-7th-november-2020.html)    
+

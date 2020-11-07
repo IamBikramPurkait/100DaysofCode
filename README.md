@@ -1,6 +1,6 @@
 # ** ***I've joined the #100DaysOfCode Challenge*** **      
 > This repo will contain the problem solved by me as part of my #100DaysofCode challenge taken up by me on LinkedIn.      
-## ***My Linkedin Profile is - https://www.linkedin.com/in/bikram-purkait-5463861a8/**            
+## ***My Linkedin Profile is - https://www.linkedin.com/in/bikram-purkait-5463861a8/***            
 > **[Log - click here to see my progres](https://github.com/IamBikramPurkait/100DaysofCode/blob/main/log.md)**     
 
 * I have taken this challenge from 26th October 2020 that i will daily solve Data Structures and Algorithm Problems, Learn Python and C++ and made some project for constantly 100 days.I will update my daily learning progress on Linkedin too in form of daily posts with attached screenshots of code for the problems being solved or or which i am doing on the challenged day.

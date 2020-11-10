@@ -133,3 +133,15 @@
    
 * **Link to work:** [Day 13: 7th November, 2020 Blog](https://codewithbikram.blogspot.com/2020/11/day-13-7th-november-2020.html)    
 
+> ## **Day 14: 8th November, 2020**               
+* **Today's Progress:**                   
+1. [Arrow Pattern in Python.]            
+2. [Leetcode Monthly challenge Problems.]        
+3. [Solved 1 Codechef Long Challenege Problem.]         
+  
+      
+
+* **Thoughts:** Today I am Solving some problems on Advanced pattern on python, and solve problems of leetcode monthly challenge and solved 1 Codechef long challenge problems.                   
+   
+* **Link to work:** [Day 14: 8th November, 2020 Blog](https://codewithbikram.blogspot.com/2020/11/day-14-8th-november-2020.html)  
+

@@ -135,7 +135,7 @@
 
 > ## **Day 14: 8th November, 2020**                
 * **Today's Progress:**                    
-1. [Arrow Pattern in Python.] (https://github.com/IamBikramPurkait/100DaysofCode/blob/main/Day%2014/arrow_pattern.py)      
+1. [Arrow Pattern in Python.](https://github.com/IamBikramPurkait/100DaysofCode/blob/main/Day%2014/arrow_pattern.py)      
 2. Leetcode Monthly challenge Problems.       
 3. Solved 1 Codechef Long Challenege Problem.         
   

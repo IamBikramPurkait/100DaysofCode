@@ -133,15 +133,30 @@
    
 * **Link to work:** [Day 13: 7th November, 2020 Blog](https://codewithbikram.blogspot.com/2020/11/day-13-7th-november-2020.html)    
 
-> ## **Day 14: 8th November, 2020**               
-* **Today's Progress:**                   
-1. [Arrow Pattern in Python.]            
-2. [Leetcode Monthly challenge Problems.]        
-3. [Solved 1 Codechef Long Challenege Problem.]         
+> ## **Day 14: 8th November, 2020**                
+* **Today's Progress:**                    
+1. [Arrow Pattern in Python.] (https://github.com/IamBikramPurkait/100DaysofCode/blob/main/Day%2014/arrow_pattern.py)      
+2. Leetcode Monthly challenge Problems.       
+3. Solved 1 Codechef Long Challenege Problem.         
   
       
 
 * **Thoughts:** Today I am Solving some problems on Advanced pattern on python, and solve problems of leetcode monthly challenge and solved 1 Codechef long challenge problems.                   
    
-* **Link to work:** [Day 14: 8th November, 2020 Blog](https://codewithbikram.blogspot.com/2020/11/day-14-8th-november-2020.html)  
+* **Link to work:** [Day 14: 8th November, 2020 Blog](https://codewithbikram.blogspot.com/2020/11/day-14-8th-november-2020.html)   
+
+
+> ## **Day 15 and Day 16: 9th and 10th November, 2020**               
+* **Today's Progress:**                   
+1. [Basics of Strings.](https://github.com/IamBikramPurkait/100DaysofCode/blob/main/Day%2015%20and%20Day%2016/basics_of_string.py)         
+2. [Sieve of Eratosthenes in Python.](https://github.com/IamBikramPurkait/100DaysofCode/blob/main/Day%2015%20and%20Day%2016/soe.py)     
+3. [Sieve of Eratosthenes in CPP.](https://github.com/IamBikramPurkait/100DaysofCode/blob/main/Day%2015%20and%20Day%2016/soe.cpp)       
+4. Coursera Course - Python Basics and C For Everyone.     
+5. Codechef long challenge 2nd Problems Solved.    
+      
+
+* **Thoughts:** Today I am learned the topic of basics of strings
+and Solving problems on Sieve of Eratosthenes topic, and solved Leetcode Monthly Challenge Problems and solved my 2nd Codechef long challenge problems and also Finished my next 2 course on coursera.                  
+   
+* **Link to work:** [Day 15 and Day 16: 9th and 10th November, 2020 Blog](https://codewithbikram.blogspot.com/2020/11/day-15-and-day-16-9th-and-10th-november.html)     
 

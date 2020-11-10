@@ -1,0 +1,21 @@
+#include <stdio.h>
+#include <math.h>
+
+int main()
+{
+    /* Define temporary variables */
+    float value;
+    float result;
+
+    /* take the value we will find the sin of */
+    printf("Enter the value of sin : "); 
+    scanf("%f",&value);
+
+    /* Calculate the Sine of value */
+    result = sin(value);
+
+    /* Display the result of the calculation */
+    printf("The Sine of %f is %f\n", value, result);
+
+    return 0;
+}

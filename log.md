@@ -151,12 +151,25 @@
 1. [Basics of Strings.](https://github.com/IamBikramPurkait/100DaysofCode/blob/main/Day%2015%20and%20Day%2016/basics_of_string.py)         
 2. [Sieve of Eratosthenes in Python.](https://github.com/IamBikramPurkait/100DaysofCode/blob/main/Day%2015%20and%20Day%2016/soe.py)     
 3. [Sieve of Eratosthenes in CPP.](https://github.com/IamBikramPurkait/100DaysofCode/blob/main/Day%2015%20and%20Day%2016/soe.cpp)       
-4. Coursera Course - Python Basics and C For Everyone.     
-5. Codechef long challenge 2nd Problems Solved.    
+4. Coursera Course - C For Everyone complete.     
+5. Codechef October long challenge 2nd Problems Solved.    
       
 
-* **Thoughts:** Today I am learned the topic of basics of strings
-and Solving problems on Sieve of Eratosthenes topic, and solved Leetcode Monthly Challenge Problems and solved my 2nd Codechef long challenge problems and also Finished my next 2 course on coursera.                  
+* **Thoughts:** Today I am learned the topic of basics of strings and Solving problems on Sieve of Eratosthenes topic, and solved Leetcode Monthly Challenge Problems and solved my 2nd Codechef long challenge problems and also Finished my next 2 course on coursera.                  
    
 * **Link to work:** [Day 15 and Day 16: 9th and 10th November, 2020 Blog](https://codewithbikram.blogspot.com/2020/11/day-15-and-day-16-9th-and-10th-november.html)     
+
+> ## **Day 17 and Day 18: 11th and 12th November, 2020**               
+* **Today's Progress:**                   
+1. [Array insert at index.](https://practice.geeksforgeeks.org/problems/array-insert-at-index/0/?track=dsa-self-paced-preview-arrays&batchId=174)         
+2. [Array insert at the end.](https://practice.geeksforgeeks.org/problems/array-insert-at-end/0/?track=dsa-self-paced-preview-arrays&batchId=174)     
+3. [Mean And Median of Array.](https://practice.geeksforgeeks.org/problems/mean-and-median-1587115620/0/?track=dsa-self-paced-preview-arrays&batchId=174)       
+4. Coursera Course - Python Basics Complete.     
+5. Codechef October long challenge 3rd Problems Solved.
+6. LeetCode Monthly Challenge Solved.
+      
+
+* **Thoughts:** Today I am continue my learning on the topic of array. and Solving some problems on it, and solved Leetcode Monthly Challenge Problems and solved my 3rd Codechef long challenge problems and also Finished my next 1 course on coursera.                 
+   
+* **Link to work:** [Day 17 and Day 18: 11th and 12th November, 2020 Blog](https://codewithbikram.blogspot.com/2020/11/day-17-and-day-18-10th-and-11th.html)    
 

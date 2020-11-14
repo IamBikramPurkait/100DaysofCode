@@ -6,7 +6,7 @@
 * **Thoughts:** I really struggled to choose the topic. but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out overcome this.    
 * **Link to work:** [Day 0: October 25, 2020 Blog](https://codewithbikram.blogspot.com/2020/10/ive-joined-100daysofcode-challenge-two.html)
 
-<br/>
+<br>
 
 > ## **Day 1: October 26, 2020**        
 * **Today's Progress:**   
@@ -15,7 +15,7 @@
 * **Thoughts:** It's the first day of the challenge taken by me on LinkedIn but the first day is not easy for me as I think, in the first day I am struggle with solving the basic array problem and finding the data structure problem on various site.but I will try my best and keep it up for maintain my consistency.   
 * **Link to work:** [Day 1: October 26, 2020 Blog](https://codewithbikram.blogspot.com/2020/10/day-1-26-october-2020.html)
 
-<br/>
+<br>
 
 > ## **Day 2: October 27, 2020**        
 * **Today's Progress:** 
@@ -27,7 +27,7 @@
 * **Thoughts:** It's the second day of the challenge taken by me on LinkedIn. Today i am doing some some basic python problem and start learning python tkinter module and linked list in dsa. I think tommorow i can made some simple project using python tkinter module and pygame module and also solved some linkled list problems.   
 * **Link to work:** [Day 2: October 27, 2020 Blog](https://codewithbikram.blogspot.com/2020/10/day-2-27-october-2020.html)
 
-<br/>
+<br>
 
 > ## **Day 3: October 28, 2020**         
 * **Today's Progress:**    
@@ -37,7 +37,7 @@
 * **Thoughts:** It's the third day of the challenge taken by me on LinkedIn. Today I have solved some problems with the array rotation method on HackerRank and also learn the python Tkinter module. Today I have solved array rotation by using 2 methods, first is rotate one by one, and the second is the Juggling method.   
 * **Link to work:** [Day 3: October 28, 2020 Blog](https://codewithbikram.blogspot.com/2020/10/day-3-28-october-2020-100daysofcode-its.html)
 
-<br/>
+<br>
 
 > ## **Day 4: October 29, 2020**          
 * **Today's Progress:**      
@@ -48,7 +48,7 @@
    
 * **Link to work:** [Day 4: October 29, 2020 Blog](https://codewithbikram.blogspot.com/2020/10/day-4-29-october-2020.html)
 
-<br/>
+<br>
 
 > ## **Day 5: October 30, 2020**          
 * **Today's Progress:**      
@@ -59,7 +59,7 @@
    
 * **Link to work:** [Day 5: October 30, 2020 Blog](https://codewithbikram.blogspot.com/2020/10/day-5-30-october-2020.html)
 
-<br/>
+<br>
 
 > ## **Day 6: October 31, 2020**             
 * **Today's Progress:**         
@@ -71,7 +71,7 @@
    
 * **Link to work:** [Day 6: October 31, 2020 Blog](https://codewithbikram.blogspot.com/2020/10/day-6-31-october-2020.html)    
 
-<br/>
+<br>
 
  
 > ## **Day 7 and Day 8: 1st and 2nd November, 2020**            
@@ -85,7 +85,7 @@
    
 * **Link to work:** [Day 7 and Day 8: 1st and 2nd November 2020 Blog](https://codewithbikram.blogspot.com/2020/11/day-7-and-day-8-31-october-and-1st.html)   
 
-<br/>
+<br>
 
 > ## **Day 9: 3rd November, 2020**             
 * **Today's Progress:**          
@@ -98,7 +98,7 @@
    
 * **Link to work:** [Day 9: 3rd November, 2020 Blog](https://codewithbikram.blogspot.com/2020/11/day-9-3rd-november-2020.html)      
 
-<br/>
+<br>
 
 > ## **Day 10: 4th November, 2020**             
 * **Today's Progress:**                
@@ -111,7 +111,7 @@
    
 * **Link to work:** [Day 10: 4th November, 2020 Blog](https://codewithbikram.blogspot.com/2020/11/day-10-4th-november-2020.html)   
 
-<br/>
+<br>
 
 > ## **Day 11: 5th November, 2020**             
 * **Today's Progress:**                
@@ -124,7 +124,7 @@
    
 * **Link to work:** [Day 11: 5th November, 2020 Blog](https://codewithbikram.blogspot.com/2020/11/day-11-5th-november-2020.html)     
 
-<br/>
+<br>
 
 > ## **Day 12: 6th November, 2020**             
 * **Today's Progress:**                
@@ -137,7 +137,7 @@
    
 * **Link to work:** [Day 12: 6th November, 2020 Blog](https://codewithbikram.blogspot.com/2020/11/day-12-6th-november-2020.html)      
 
-<br/>
+<br>
 
 
 > ## **Day 13: 7th November, 2020**              
@@ -153,7 +153,7 @@
    
 * **Link to work:** [Day 13: 7th November, 2020 Blog](https://codewithbikram.blogspot.com/2020/11/day-13-7th-november-2020.html)    
 
-<br/>
+<br>
 
 > ## **Day 14: 8th November, 2020**                
 * **Today's Progress:**                    
@@ -167,7 +167,7 @@
    
 * **Link to work:** [Day 14: 8th November, 2020 Blog](https://codewithbikram.blogspot.com/2020/11/day-14-8th-november-2020.html)   
 
-<br/>
+<br>
 
 > ## **Day 15 and Day 16: 9th and 10th November, 2020**               
 * **Today's Progress:**                   
@@ -182,7 +182,7 @@
    
 * **Link to work:** [Day 15 and Day 16: 9th and 10th November, 2020 Blog](https://codewithbikram.blogspot.com/2020/11/day-15-and-day-16-9th-and-10th-november.html)     
 
-<br/>
+<br>
 
 > ## **Day 17 and Day 18: 11th and 12th November, 2020**               
 * **Today's Progress:**                   
@@ -197,7 +197,7 @@
    
 * **Link to work:** [Day 17 and Day 18: 11th and 12th November, 2020 Blog](https://codewithbikram.blogspot.com/2020/11/day-17-and-day-18-10th-and-11th.html)    
 
-<br/>
+<br>
 
 > ## **Day 19 and Day 20: 13th and 14th November, 2020**               
 * **Today's Progress:**                   
@@ -211,5 +211,5 @@
    
 * **Link to work:** [Day 19 and Day 20: 13th and 14th November, 2020 Blog](https://codewithbikram.blogspot.com/2020/11/day-19-and-day-20-13th-and-14th-november.html)    
 
-<br/>
+<br>
 

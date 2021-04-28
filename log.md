@@ -1,4 +1,4 @@
-# ** *100 Days Of Code* ** 
+# ***100 Days Of Code*** 
 
 
 > ## **Day 0: October 25, 2020**        

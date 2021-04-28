@@ -1,4 +1,4 @@
-# ** ***I've joined the #100DaysOfCode Challenge*** **      
+# ***I've joined the #100DaysOfCode Challenge***
 > This repo will contain the problem solved by me as part of my #100DaysofCode challenge taken up by me on LinkedIn.      
 ## ***My Linkedin Profile is - https://www.linkedin.com/in/bikram-purkait-5463861a8/***            
 > **[Log - click here to see my progres](https://github.com/IamBikramPurkait/100DaysofCode/blob/main/log.md)**     
